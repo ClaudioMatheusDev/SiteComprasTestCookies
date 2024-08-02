@@ -32,7 +32,9 @@
       <div class="card-body">
         <h5 class="card-title">Nike AIR MAX SC </h5>
         <p class="card-text">Morbi posuere lobortis eros sed dictum. Mauris sc</p>
-<a href="#" class="btn">Adicionar ao carrinho</a>
+        <form action="cookie/cookie.php" method="POST">
+        <input type="submit" name="btnentrar" value="Adicionar ao carrinhoa" class="btn">
+       </form>
       </div>
     </div>
   </div>
@@ -42,7 +44,9 @@
       <div class="card-body">
         <h5 class="card-title">Adidas Game Spec</h5>
         <p class="card-text">in consequat justo. Nulla neque augue, auctor non sem id, blandi</p>
-<a href="#" class="btn">Adicionar ao carrinho</a>
+        <form action="cookie/cookie.php" method="POST">
+        <input type="submit" name="btnentrar" value="Adicionar ao carrinhoa" class="btn">
+       </form>
       </div>
     </div>
   </div>
@@ -52,7 +56,9 @@
       <div class="card-body">
         <h5 class="card-title">Adidas Ultra Bonce FEMININO</h5>
         <p class="card-text">Sed mi velit, vehicula et tincidunt eget, interdum ut est. Nullam sed lectus nunc. Mauris hend</p>
-<a href="#" class="btn">Adicionar ao carrinho</a>
+        <form action="cookie/cookie.php" method="POST">
+        <input type="submit" name="btnentrar" value="Adicionar ao carrinhoa" class="btn">
+       </form>
       </div>
     </div>
   </div>
@@ -62,7 +68,9 @@
       <div class="card-body">
         <h5 class="card-title">Nike ZOOM Vapor Lite</h5>
         <p class="card-text">Morbi fringilla nulla eros, in tincidunt augue </p>
-<a href="#" class="btn">Adicionar ao carrinho</a>
+        <form action="cookie/cookie.php" method="POST">
+        <input type="submit" name="btnentrar" value="Adicionar ao carrinhoa" class="btn">
+       </form>
       </div>
     </div>
   </div>
@@ -75,7 +83,9 @@
       <div class="card-body">
         <h5 class="card-title">NIKE TN</h5>
         <p class="card-text">bortis nisl. Mauris facilisis odio arcu, hendrerit </p>
-<a href="#" class="btn">Adicionar ao carrinho</a>
+        <form action="cookie/cookie.php" method="POST">
+        <input type="submit" name="btnentrar" value="Adicionar ao carrinhoa" class="btn">
+       </form>
       </div>
     </div>
   </div>
@@ -85,7 +95,9 @@
       <div class="card-body">
         <h5 class="card-title">Nike Revolution 7</h5>
         <p class="card-text">dignissim vestibulum metus, ut conse</p>
-<a href="#" class="btn">Adicionar ao carrinho</a>
+        <form action="cookie/cookie.php" method="POST">
+        <input type="submit" name="btnentrar" value="Adicionar ao carrinhoa" class="btn">
+       </form>
       </div>
     </div>
   </div>
@@ -95,7 +107,9 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Duis aliquet mi nunc, id tempor dui convallis at.</p>
-	<a href="#" class="btn">Adicionar ao carrinho</a>
+        <form action="cookie/cookie.php" method="POST">
+        <input type="submit" name="btnentrar" value="Adicionar ao carrinhoa" class="btn">
+       </form>
       </div>
     </div>
   </div>
@@ -105,7 +119,9 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-	<a href="#" class="btn">Adicionar ao carrinho</a>
+        <form action="cookie/cookie.php" method="POST">
+        <input type="submit" name="btnentrar" value="Adicionar ao carrinhoa" class="btn">
+       </form>
       </div>
     </div>
   </div>
