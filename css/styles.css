@@ -32,11 +32,12 @@ header{
     width: 100%;
     padding: 1.1rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     z-index: 100;
     background-color: var(--bg-color-02);
 }
+
 
 .nav a {
     font-size: 1.2rem;
@@ -46,7 +47,7 @@ header{
 }
 
 .nav a:hover{
-    color: var(--color-02)
+    color: var(--color-03);
 }
 
 *{
@@ -79,9 +80,9 @@ section{
 }
 
 .btn:hover {
-    box-shadow: 0 0 0.3rem var(--color-02);
+    box-shadow: 0 0 0.3rem var(--color-03);
     background-color: inherit;
-    color: var(--color-02);
+    color: var(--color-03);
     cursor: pointer;
 }
 .card {
@@ -100,5 +101,14 @@ box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     object-fit: cover; 
 }
 
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1.2rem;
+    background-color: var(--bg-color-02);
+    color: var(--text-color);
+}
 
 
