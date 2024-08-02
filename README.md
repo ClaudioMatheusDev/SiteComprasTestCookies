@@ -1,4 +1,4 @@
-### Catálogo de Produtos com Histórico de Visualização
+# Catálogo de Produtos com Histórico de Visualização
 
 ## Este projeto consiste em criar uma tela de catálogo de produtos (vitrine) e armazenar em cookies os produtos visualizados (clicados) pelos visitantes. Ao retornar ao site, o visitante verá os produtos visualizados na última visita.
 
