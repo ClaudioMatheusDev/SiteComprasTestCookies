@@ -18,3 +18,4 @@ Este projeto cria uma tela de catálogo de produtos (vitrine) e armazena em cook
 
 - **PHP:** Utilizado para a lógica de armazenamento e recuperação dos cookies, gerenciando o histórico de visualização dos produtos.
 
+![image](https://github.com/user-attachments/assets/6d887bad-901f-4130-96ab-b32c6349e47b)
